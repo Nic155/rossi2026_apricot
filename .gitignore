@@ -14,3 +14,4 @@ slurm-*.out
 .Rproj.user/
 .DS_Store
 data/raw/
+data/load_input/*.tsv
