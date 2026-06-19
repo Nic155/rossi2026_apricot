@@ -1,0 +1,16 @@
+*.bed
+*.bim
+*.fam
+*.nosex
+*.vcf
+*.vcf.gz
+**/logs/
+**/slurm/*.out
+slurm-*.out
+**/__pycache__/
+*.pyc
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
+data/raw/
