@@ -15,3 +15,6 @@ slurm-*.out
 .DS_Store
 data/raw/
 data/load_input/*.tsv
+
+R_analysis/*.RData
+.Rhistory
