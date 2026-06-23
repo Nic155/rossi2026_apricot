@@ -53,7 +53,3 @@ are committed here. Large inputs and PLINK/ROH binaries are gitignored.
 
 - HPC: PLINK 1.90b7, bcftools 1.21, bedtools 2.31.1, Python 3.11.1 (stdlib only).
 - R: clusterProfiler 4.20.0 and the packages loaded at the top of each script.
-
-## Citation
-
-Cite Rossi et al. (2026) and the data DOI above.
